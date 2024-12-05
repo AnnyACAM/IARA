@@ -6,16 +6,19 @@ Iara não possui nenhum tipo de poder ou vidas extras, por isso a ideia é trata
 Ao longo do jogo, os jogadores exploram cenários inspirados na Amazônia e descobrem histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira.
 </b>
 <h4>Descrição:</h4>
--Estilo do Jogo: 
-RPG e Plataforma Educativo com Pixel Art
--Objetivo:
-Os jogadores assumem o controle de Iara, a protagonista, ao longo das fases o jogador deve superar obstáculos e derrotar os inimigos (monstros do minério). O principal objetivo é coletar todas as poções espalhadas pelo mapa e completar cada nível.
+-Estilo do Jogo: </b>
+RPG e Plataforma Educativo com Pixel Art</b>
+</b>
+-Objetivo:</b>
+Os jogadores assumem o controle de Iara, a protagonista, ao longo das fases o jogador deve superar obstáculos e derrotar os inimigos (monstros do minério). O principal objetivo é coletar todas as poções espalhadas pelo mapa e completar cada nível.</b>
 </b>
 <h4>Integrantes:</h4>
-- <a href="https://github.com/juliaaliceleao" target="_blank">Julia Alice Leão</a>(Direção de Arte e Conceito Criativo)
-- <a href="https://github.com/annyACAM" target="_blank">Anny Caroline A. Marcelino</a>(Direção Geral e Desenvolvimento)
-- <a href="https://github.com/Bernardo-O-Silva" target="_blank">Bernardo de O. Silva</a>(Desenvolvimento e Implementação)
-- <a href="https://github.com/vitoriaEHon" target="_blank">Vitória Ellen Honório</a>(Arte e Documentação)
-</b>
+- <a href="https://github.com/juliaaliceleao" target="_blank">Julia Alice Leão </a>(Direção de Arte e Conceito Criativo)</b>
+- <a href="https://github.com/annyACAM" target="_blank">Anny Caroline A. Marcelino </a>(Direção Geral e Desenvolvimento)</b>
+- <a href="https://github.com/Bernardo-O-Silva" target="_blank">Bernardo de O. Silva </a>(Desenvolvimento e Implementação)</b>
+- <a href="https://github.com/vitoriaEHon" target="_blank">Vitória Ellen Honório </a>(Arte e Documentação)</b>
+
 ![image](https://github.com/user-attachments/assets/41aaa154-b748-417b-8a99-66fb0d25e7a2)
+<a href="[https://github.com/vitoriaEHon](https://github.com/juliaaliceleao/2023-303-Iara/tree/main)" target="_blank">Relatório Completo</a>
+
 <a href="https://github.com/juliaaliceleao/2023-303-Iara/tree/main" target="_blank">Relatório Completo</a>
