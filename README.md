@@ -6,12 +6,11 @@ Iara não possui nenhum tipo de poder ou vidas extras, por isso a ideia é trata
 Ao longo do jogo, os jogadores exploram cenários inspirados na Amazônia e descobrem histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira.
 <br>
 <h4>Descrição:</h4>
--Estilo do Jogo: <br>
+<b>Estilo do Jogo:</b> <br>
 RPG e Plataforma Educativo com Pixel Art<br>
 <br>
--Objetivo:<br>
+<b>Objetivo:</b><br>
 Os jogadores assumem o controle de Iara, a protagonista, ao longo das fases o jogador deve superar obstáculos e derrotar os inimigos (monstros do minério). O principal objetivo é coletar todas as poções espalhadas pelo mapa e completar cada nível.<br>
-<br>
 <h4>Integrantes:</h4>
 - <a href="https://github.com/juliaaliceleao" target="_blank">Julia Alice Leão </a>(Direção de Arte e Conceito Criativo)
 <br>
